@@ -2,5 +2,5 @@
 
 ## Heading 2
 
-* [] Checklist1
-* [] Checklist2
+* [ ] Checklist1
+* [ ] Checklist2
